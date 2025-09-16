@@ -1,0 +1,23 @@
+{
+  "extends": "../../tsconfig.base.json",
+  "compilerOptions": {
+    "module": "Node16",
+    "target": "es2019",
+    "moduleResolution": "node16",
+    "allowImportingTsExtensions": false,
+    "noEmit": false,
+    "outDir": "./dist",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "incremental": true,
+    "sourceMap": true,
+    "baseUrl": "./",
+    "types": ["node"],
+    "strict": true,
+    "strictNullChecks": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}

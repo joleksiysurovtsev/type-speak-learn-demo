@@ -1,0 +1,915 @@
+{
+  "summaries": [
+    {
+      "id": "block-0",
+      "type": "dictionary",
+      "title": {
+        "uk": "Тренування слів",
+        "en": "Word Training",
+        "ru": "Тренировка слов",
+        "pl": "Trening słów"
+      },
+      "description": {
+        "uk": "Набір слів для поступового тренування читання та друку.",
+        "en": "A set of transparent words for step-by-step reading and typing practice.",
+        "ru": "Набор слов для постепенной тренировки чтения и печати.",
+        "pl": "Zestaw słów do stopniowego treningu czytania i pisania."
+      },
+      "unlocked": true,
+      "progress": 0.35
+    },
+    {
+      "id": "block-1",
+      "type": "alphabet",
+      "title": {
+        "uk": "Букви",
+        "en": "Letters",
+        "ru": "Буквы",
+        "pl": "Litery"
+      },
+      "description": {
+        "uk": "Вивчення вигляду літер, їх написання та озвучування.",
+        "en": "Learn how letters look, sound, and are typed.",
+        "ru": "Изучение вида букв, их написания и звучания.",
+        "pl": "Poznawanie wyglądu liter, ich pisowni i wymowy."
+      },
+      "unlocked": true,
+      "progress": 0.15
+    },
+    {
+      "id": "block-2",
+      "type": "dictionary",
+      "title": {
+        "uk": "Іменники",
+        "en": "Nouns",
+        "ru": "Существительные",
+        "pl": "Rzeczowniki"
+      },
+      "description": {
+        "uk": "Вправи на вживання базових іменників у простих реченнях.",
+        "en": "Exercises that practise common nouns inside simple phrases.",
+        "ru": "Упражнения на употребление базовых существительных в простых фразах.",
+        "pl": "Ćwiczenia z użyciem podstawowych rzeczowników w prostych zdaniach."
+      },
+      "unlocked": false,
+      "progress": 0
+    },
+    {
+      "id": "block-3",
+      "type": "dictionary",
+      "title": {
+        "uk": "Дієслова",
+        "en": "Verbs",
+        "ru": "Глаголы",
+        "pl": "Czasowniki"
+      },
+      "description": {
+        "uk": "Формування навичок розуміння та вживання дієслів.",
+        "en": "Build confidence with basic verbs and action words.",
+        "ru": "Развитие понимания и употребления простых глаголов.",
+        "pl": "Budowanie pewności w używaniu podstawowych czasowników."
+      },
+      "unlocked": false,
+      "progress": 0
+    },
+    {
+      "id": "block-4",
+      "type": "dictionary",
+      "title": {
+        "uk": "Іменник + Дієслово",
+        "en": "Noun + Verb",
+        "ru": "Существительное + Глагол",
+        "pl": "Rzeczownik + Czasownik"
+      },
+      "description": {
+        "uk": "Поєднуємо слова в пари, щоб будувати короткі вислови.",
+        "en": "Combine nouns and verbs to build short phrases.",
+        "ru": "Сочетайте существительные и глаголы для коротких фраз.",
+        "pl": "Łączenie rzeczowników i czasowników w krótkie zwroty."
+      },
+      "unlocked": false,
+      "progress": 0
+    },
+    {
+      "id": "block-5",
+      "type": "dictionary",
+      "title": {
+        "uk": "Іменник + Прикметник",
+        "en": "Noun + Adjective",
+        "ru": "Существительное + Прилагательное",
+        "pl": "Rzeczownik + Przymiotnik"
+      },
+      "description": {
+        "uk": "Тренуємо опис предметів за допомогою прикметників.",
+        "en": "Describe objects using colourful adjectives.",
+        "ru": "Тренировка описания предметов с помощью прилагательных.",
+        "pl": "Ćwiczenie opisywania przedmiotów za pomocą przymiotników."
+      },
+      "unlocked": false,
+      "progress": 0
+    },
+    {
+      "id": "block-6",
+      "type": "dictionary",
+      "title": {
+        "uk": "Іменник + Дієслово + Іменник",
+        "en": "Noun + Verb + Noun",
+        "ru": "Существительное + Глагол + Существительное",
+        "pl": "Rzeczownik + Czasownik + Rzeczownik"
+      },
+      "description": {
+        "uk": "Будуємо довші вислови для опису дій та об'єктів.",
+        "en": "Create longer expressions that describe actions and objects.",
+        "ru": "Построение более длинных фраз для описания действий и объектов.",
+        "pl": "Budowanie dłuższych wypowiedzi opisujących działania i obiekty."
+      },
+      "unlocked": false,
+      "progress": 0
+    },
+    {
+      "id": "block-7",
+      "type": "dictionary",
+      "title": {
+        "uk": "Іменник + Дієслово + Об'єкт",
+        "en": "Noun + Verb + Object",
+        "ru": "Существительное + Глагол + Объект",
+        "pl": "Rzeczownik + Czasownik + Obiekt"
+      },
+      "description": {
+        "uk": "Навчаємось структурувати речення з додатковими деталями.",
+        "en": "Structure sentences that include meaningful context.",
+        "ru": "Учимся строить предложения с дополнительными деталями.",
+        "pl": "Uczymy się budować zdania z dodatkowymi szczegółami."
+      },
+      "unlocked": false,
+      "progress": 0
+    },
+    {
+      "id": "block-8",
+      "type": "dictionary",
+      "title": {
+        "uk": "Історія в картинках",
+        "en": "Story Picture",
+        "ru": "История в картинках",
+        "pl": "Historia obrazkowa"
+      },
+      "description": {
+        "uk": "Послідовні історії для тренування розповіді.",
+        "en": "Sequential stories that inspire narration practice.",
+        "ru": "Последовательные истории для тренировки пересказа.",
+        "pl": "Sekwencyjne historyjki do treningu opowiadania."
+      },
+      "unlocked": false,
+      "progress": 0
+    }
+  ],
+  "content": {
+    "block-0": {
+      "id": "block-0",
+      "type": "dictionary",
+      "title": {
+        "uk": "Напівпрозоре слово",
+        "en": "Transparent Word",
+        "ru": "Полупрозрачное слово",
+        "pl": "Przezroczyste słowo"
+      },
+      "description": {
+        "uk": "Слова з підказкою для розвитку точності набору та читання.",
+        "en": "Words with visual hints that strengthen typing accuracy and reading.",
+        "ru": "Слова с подсказкой для развития точности набора и чтения.",
+        "pl": "Słowa z podpowiedzią wzmacniające dokładność pisania i czytania."
+      },
+      "exercises": [
+        {
+          "id": "transparent-word-typing",
+          "type": "dictionary",
+          "title": {
+            "uk": "Введи слово",
+            "en": "Type the Word",
+            "ru": "Введи слово",
+            "pl": "Wpisz słowo"
+          },
+          "instructions": {
+            "uk": "Набери слово, що показане напівпрозоро:",
+            "en": "Type the word shown in transparent text:",
+            "ru": "Набери слово, показанное полупрозрачно:",
+            "pl": "Wpisz słowo pokazane półprzezroczyście:"
+          },
+          "successMessages": {
+            "uk": "Відмінно! Ти правильно набрав слово!",
+            "en": "Excellent! You typed the word correctly!",
+            "ru": "Отлично! Ты правильно набрал слово!",
+            "pl": "Doskonale! Poprawnie wpisałeś słowo!"
+          },
+          "words": {
+            "uk": [
+              "мама",
+              "тато",
+              "дім",
+              "кіт",
+              "собака",
+              "яблуко",
+              "молоко",
+              "хліб"
+            ],
+            "en": [
+              "cat",
+              "dog",
+              "home",
+              "milk",
+              "bread",
+              "apple",
+              "water",
+              "book"
+            ],
+            "ru": [
+              "мама",
+              "папа",
+              "дом",
+              "кот",
+              "собака",
+              "яблоко",
+              "молоко",
+              "хлеб"
+            ],
+            "pl": [
+              "mama",
+              "tata",
+              "dom",
+              "kot",
+              "pies",
+              "jabłko",
+              "mleko",
+              "chleb"
+            ]
+          }
+        }
+      ]
+    },
+    "block-1": {
+      "id": "block-1",
+      "type": "alphabet",
+      "title": {
+        "uk": "Алфавітні літери",
+        "en": "Alphabet Letters",
+        "ru": "Алфавитные буквы",
+        "pl": "Litery alfabetu"
+      },
+      "description": {
+        "uk": "Практика написання, розпізнавання та вимови літер.",
+        "en": "Practice typing, recognising, and pronouncing letters.",
+        "ru": "Практика написания, распознавания и произношения букв.",
+        "pl": "Ćwiczenie pisania, rozpoznawania i wymawiania liter."
+      },
+      "exercises": [
+        {
+          "id": "alphabet-drill",
+          "type": "alphabet",
+          "title": {
+            "uk": "Назви й надрукуй літеру",
+            "en": "Say and Type the Letter",
+            "ru": "Назови и напечатай букву",
+            "pl": "Nazwij i wpisz literę"
+          },
+          "instructions": {
+            "uk": "Подивись на букву і набери її:",
+            "en": "Look at the letter and type it:",
+            "ru": "Посмотри на букву и набери её:",
+            "pl": "Spójrz na literę i ją wpisz:"
+          },
+          "successMessages": {
+            "uk": "Чудово! Це правильна буква!",
+            "en": "Great! That's the correct letter!",
+            "ru": "Отлично! Это правильная буква!",
+            "pl": "Świetnie! To jest poprawna litera!"
+          },
+          "letters": {
+            "uk": [
+              {
+                "letter": "А",
+                "uppercase": "А",
+                "lowercase": "а"
+              },
+              {
+                "letter": "Б",
+                "uppercase": "Б",
+                "lowercase": "б"
+              },
+              {
+                "letter": "В",
+                "uppercase": "В",
+                "lowercase": "в"
+              },
+              {
+                "letter": "Г",
+                "uppercase": "Г",
+                "lowercase": "г"
+              },
+              {
+                "letter": "Д",
+                "uppercase": "Д",
+                "lowercase": "д"
+              },
+              {
+                "letter": "Е",
+                "uppercase": "Е",
+                "lowercase": "е"
+              },
+              {
+                "letter": "Є",
+                "uppercase": "Є",
+                "lowercase": "є"
+              },
+              {
+                "letter": "Ж",
+                "uppercase": "Ж",
+                "lowercase": "ж"
+              },
+              {
+                "letter": "З",
+                "uppercase": "З",
+                "lowercase": "з"
+              },
+              {
+                "letter": "И",
+                "uppercase": "И",
+                "lowercase": "и"
+              },
+              {
+                "letter": "І",
+                "uppercase": "І",
+                "lowercase": "і"
+              },
+              {
+                "letter": "Ї",
+                "uppercase": "Ї",
+                "lowercase": "ї"
+              },
+              {
+                "letter": "Й",
+                "uppercase": "Й",
+                "lowercase": "й"
+              },
+              {
+                "letter": "К",
+                "uppercase": "К",
+                "lowercase": "к"
+              },
+              {
+                "letter": "Л",
+                "uppercase": "Л",
+                "lowercase": "л"
+              },
+              {
+                "letter": "М",
+                "uppercase": "М",
+                "lowercase": "м"
+              },
+              {
+                "letter": "Н",
+                "uppercase": "Н",
+                "lowercase": "н"
+              },
+              {
+                "letter": "О",
+                "uppercase": "О",
+                "lowercase": "о"
+              },
+              {
+                "letter": "П",
+                "uppercase": "П",
+                "lowercase": "п"
+              },
+              {
+                "letter": "Р",
+                "uppercase": "Р",
+                "lowercase": "р"
+              },
+              {
+                "letter": "С",
+                "uppercase": "С",
+                "lowercase": "с"
+              },
+              {
+                "letter": "Т",
+                "uppercase": "Т",
+                "lowercase": "т"
+              },
+              {
+                "letter": "У",
+                "uppercase": "У",
+                "lowercase": "у"
+              },
+              {
+                "letter": "Ф",
+                "uppercase": "Ф",
+                "lowercase": "ф"
+              },
+              {
+                "letter": "Х",
+                "uppercase": "Х",
+                "lowercase": "х"
+              },
+              {
+                "letter": "Ц",
+                "uppercase": "Ц",
+                "lowercase": "ц"
+              },
+              {
+                "letter": "Ч",
+                "uppercase": "Ч",
+                "lowercase": "ч"
+              },
+              {
+                "letter": "Ш",
+                "uppercase": "Ш",
+                "lowercase": "ш"
+              },
+              {
+                "letter": "Щ",
+                "uppercase": "Щ",
+                "lowercase": "щ"
+              },
+              {
+                "letter": "Ь",
+                "uppercase": "Ь",
+                "lowercase": "ь"
+              },
+              {
+                "letter": "Ю",
+                "uppercase": "Ю",
+                "lowercase": "ю"
+              },
+              {
+                "letter": "Я",
+                "uppercase": "Я",
+                "lowercase": "я"
+              }
+            ],
+            "en": [
+              {
+                "letter": "A",
+                "uppercase": "A",
+                "lowercase": "a"
+              },
+              {
+                "letter": "B",
+                "uppercase": "B",
+                "lowercase": "b"
+              },
+              {
+                "letter": "C",
+                "uppercase": "C",
+                "lowercase": "c"
+              },
+              {
+                "letter": "D",
+                "uppercase": "D",
+                "lowercase": "d"
+              },
+              {
+                "letter": "E",
+                "uppercase": "E",
+                "lowercase": "e"
+              },
+              {
+                "letter": "F",
+                "uppercase": "F",
+                "lowercase": "f"
+              },
+              {
+                "letter": "G",
+                "uppercase": "G",
+                "lowercase": "g"
+              },
+              {
+                "letter": "H",
+                "uppercase": "H",
+                "lowercase": "h"
+              },
+              {
+                "letter": "I",
+                "uppercase": "I",
+                "lowercase": "i"
+              },
+              {
+                "letter": "J",
+                "uppercase": "J",
+                "lowercase": "j"
+              },
+              {
+                "letter": "K",
+                "uppercase": "K",
+                "lowercase": "k"
+              },
+              {
+                "letter": "L",
+                "uppercase": "L",
+                "lowercase": "l"
+              },
+              {
+                "letter": "M",
+                "uppercase": "M",
+                "lowercase": "m"
+              },
+              {
+                "letter": "N",
+                "uppercase": "N",
+                "lowercase": "n"
+              },
+              {
+                "letter": "O",
+                "uppercase": "O",
+                "lowercase": "o"
+              },
+              {
+                "letter": "P",
+                "uppercase": "P",
+                "lowercase": "p"
+              },
+              {
+                "letter": "Q",
+                "uppercase": "Q",
+                "lowercase": "q"
+              },
+              {
+                "letter": "R",
+                "uppercase": "R",
+                "lowercase": "r"
+              },
+              {
+                "letter": "S",
+                "uppercase": "S",
+                "lowercase": "s"
+              },
+              {
+                "letter": "T",
+                "uppercase": "T",
+                "lowercase": "t"
+              },
+              {
+                "letter": "U",
+                "uppercase": "U",
+                "lowercase": "u"
+              },
+              {
+                "letter": "V",
+                "uppercase": "V",
+                "lowercase": "v"
+              },
+              {
+                "letter": "W",
+                "uppercase": "W",
+                "lowercase": "w"
+              },
+              {
+                "letter": "X",
+                "uppercase": "X",
+                "lowercase": "x"
+              },
+              {
+                "letter": "Y",
+                "uppercase": "Y",
+                "lowercase": "y"
+              },
+              {
+                "letter": "Z",
+                "uppercase": "Z",
+                "lowercase": "z"
+              }
+            ],
+            "ru": [
+              {
+                "letter": "А",
+                "uppercase": "А",
+                "lowercase": "а"
+              },
+              {
+                "letter": "Б",
+                "uppercase": "Б",
+                "lowercase": "б"
+              },
+              {
+                "letter": "В",
+                "uppercase": "В",
+                "lowercase": "в"
+              },
+              {
+                "letter": "Г",
+                "uppercase": "Г",
+                "lowercase": "г"
+              },
+              {
+                "letter": "Д",
+                "uppercase": "Д",
+                "lowercase": "д"
+              },
+              {
+                "letter": "Е",
+                "uppercase": "Е",
+                "lowercase": "е"
+              },
+              {
+                "letter": "Ё",
+                "uppercase": "Ё",
+                "lowercase": "ё"
+              },
+              {
+                "letter": "Ж",
+                "uppercase": "Ж",
+                "lowercase": "ж"
+              },
+              {
+                "letter": "З",
+                "uppercase": "З",
+                "lowercase": "з"
+              },
+              {
+                "letter": "И",
+                "uppercase": "И",
+                "lowercase": "и"
+              },
+              {
+                "letter": "Й",
+                "uppercase": "Й",
+                "lowercase": "й"
+              },
+              {
+                "letter": "К",
+                "uppercase": "К",
+                "lowercase": "к"
+              },
+              {
+                "letter": "Л",
+                "uppercase": "Л",
+                "lowercase": "л"
+              },
+              {
+                "letter": "М",
+                "uppercase": "М",
+                "lowercase": "м"
+              },
+              {
+                "letter": "Н",
+                "uppercase": "Н",
+                "lowercase": "н"
+              },
+              {
+                "letter": "О",
+                "uppercase": "О",
+                "lowercase": "о"
+              },
+              {
+                "letter": "П",
+                "uppercase": "П",
+                "lowercase": "п"
+              },
+              {
+                "letter": "Р",
+                "uppercase": "Р",
+                "lowercase": "р"
+              },
+              {
+                "letter": "С",
+                "uppercase": "С",
+                "lowercase": "с"
+              },
+              {
+                "letter": "Т",
+                "uppercase": "Т",
+                "lowercase": "т"
+              },
+              {
+                "letter": "У",
+                "uppercase": "У",
+                "lowercase": "у"
+              },
+              {
+                "letter": "Ф",
+                "uppercase": "Ф",
+                "lowercase": "ф"
+              },
+              {
+                "letter": "Х",
+                "uppercase": "Х",
+                "lowercase": "х"
+              },
+              {
+                "letter": "Ц",
+                "uppercase": "Ц",
+                "lowercase": "ц"
+              },
+              {
+                "letter": "Ч",
+                "uppercase": "Ч",
+                "lowercase": "ч"
+              },
+              {
+                "letter": "Ш",
+                "uppercase": "Ш",
+                "lowercase": "ш"
+              },
+              {
+                "letter": "Щ",
+                "uppercase": "Щ",
+                "lowercase": "щ"
+              },
+              {
+                "letter": "Ъ",
+                "uppercase": "Ъ",
+                "lowercase": "ъ"
+              },
+              {
+                "letter": "Ы",
+                "uppercase": "Ы",
+                "lowercase": "ы"
+              },
+              {
+                "letter": "Ь",
+                "uppercase": "Ь",
+                "lowercase": "ь"
+              },
+              {
+                "letter": "Э",
+                "uppercase": "Э",
+                "lowercase": "э"
+              },
+              {
+                "letter": "Ю",
+                "uppercase": "Ю",
+                "lowercase": "ю"
+              },
+              {
+                "letter": "Я",
+                "uppercase": "Я",
+                "lowercase": "я"
+              }
+            ],
+            "pl": [
+              {
+                "letter": "A",
+                "uppercase": "A",
+                "lowercase": "a"
+              },
+              {
+                "letter": "Ą",
+                "uppercase": "Ą",
+                "lowercase": "ą"
+              },
+              {
+                "letter": "B",
+                "uppercase": "B",
+                "lowercase": "b"
+              },
+              {
+                "letter": "C",
+                "uppercase": "C",
+                "lowercase": "c"
+              },
+              {
+                "letter": "Ć",
+                "uppercase": "Ć",
+                "lowercase": "ć"
+              },
+              {
+                "letter": "D",
+                "uppercase": "D",
+                "lowercase": "d"
+              },
+              {
+                "letter": "E",
+                "uppercase": "E",
+                "lowercase": "e"
+              },
+              {
+                "letter": "Ę",
+                "uppercase": "Ę",
+                "lowercase": "ę"
+              },
+              {
+                "letter": "F",
+                "uppercase": "F",
+                "lowercase": "f"
+              },
+              {
+                "letter": "G",
+                "uppercase": "G",
+                "lowercase": "g"
+              },
+              {
+                "letter": "H",
+                "uppercase": "H",
+                "lowercase": "h"
+              },
+              {
+                "letter": "I",
+                "uppercase": "I",
+                "lowercase": "i"
+              },
+              {
+                "letter": "J",
+                "uppercase": "J",
+                "lowercase": "j"
+              },
+              {
+                "letter": "K",
+                "uppercase": "K",
+                "lowercase": "k"
+              },
+              {
+                "letter": "L",
+                "uppercase": "L",
+                "lowercase": "l"
+              },
+              {
+                "letter": "Ł",
+                "uppercase": "Ł",
+                "lowercase": "ł"
+              },
+              {
+                "letter": "M",
+                "uppercase": "M",
+                "lowercase": "m"
+              },
+              {
+                "letter": "N",
+                "uppercase": "N",
+                "lowercase": "n"
+              },
+              {
+                "letter": "Ń",
+                "uppercase": "Ń",
+                "lowercase": "ń"
+              },
+              {
+                "letter": "O",
+                "uppercase": "O",
+                "lowercase": "o"
+              },
+              {
+                "letter": "Ó",
+                "uppercase": "Ó",
+                "lowercase": "ó"
+              },
+              {
+                "letter": "P",
+                "uppercase": "P",
+                "lowercase": "p"
+              },
+              {
+                "letter": "R",
+                "uppercase": "R",
+                "lowercase": "r"
+              },
+              {
+                "letter": "S",
+                "uppercase": "S",
+                "lowercase": "s"
+              },
+              {
+                "letter": "Ś",
+                "uppercase": "Ś",
+                "lowercase": "ś"
+              },
+              {
+                "letter": "T",
+                "uppercase": "T",
+                "lowercase": "t"
+              },
+              {
+                "letter": "U",
+                "uppercase": "U",
+                "lowercase": "u"
+              },
+              {
+                "letter": "W",
+                "uppercase": "W",
+                "lowercase": "w"
+              },
+              {
+                "letter": "Y",
+                "uppercase": "Y",
+                "lowercase": "y"
+              },
+              {
+                "letter": "Z",
+                "uppercase": "Z",
+                "lowercase": "z"
+              },
+              {
+                "letter": "Ź",
+                "uppercase": "Ź",
+                "lowercase": "ź"
+              },
+              {
+                "letter": "Ż",
+                "uppercase": "Ż",
+                "lowercase": "ż"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

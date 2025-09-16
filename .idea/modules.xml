@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/type-speak-learn-bff/type-speak-learn-bff.iml" filepath="$PROJECT_DIR$/type-speak-learn-bff/type-speak-learn-bff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/type-speak-learn-bss/type-speak-learn-bss.iml" filepath="$PROJECT_DIR$/type-speak-learn-bss/type-speak-learn-bss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/type-speak-learn-demo.iml" filepath="$PROJECT_DIR$/type-speak-learn-demo.iml" />
+    </modules>
+  </component>
+</project>
